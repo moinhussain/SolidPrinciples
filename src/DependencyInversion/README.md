@@ -14,4 +14,4 @@ This allows you to easily swap out the Mailer class with another implementation 
 Dependency Injection is one of the design patterns to implement the Dependency Inversion principle
 
 
-![screenshot](screenshot.png)
+![screenshot](DependencyInversion.png)
